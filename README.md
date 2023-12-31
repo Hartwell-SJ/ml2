@@ -2,8 +2,7 @@
 This repository contains:
 1. This ReadMe file.
 2. Replication code.
-3. Pickled model.
-4. The final dataset was pickled but would not upload due to being over 25mb even when zipped. The replication code contains how the pickled file was created.
+3. The final dataset and the model used earlier in the code were pickled but would not upload due to being over 25mb even when zipped. The replication code contains the creating of the pickled files and the zipped copies are still possessed if required.
 
 # Model Use on Unseen Data
 The instructions for this assignment stated to include a readme file on the pickled model. Due to using a pre-built lexicon that has not been modified in any way, the final dataset created was pickled as well.
